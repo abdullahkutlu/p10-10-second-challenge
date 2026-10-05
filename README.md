@@ -1,5 +1,5 @@
 # P10 10-Second Challenge 🎯
-
+Arduino Uno ve 32×16 P10 LED panel kullanılarak geliştirdiğim bir zamanlama oyunudur. Projede P10 panelin çalışma yapısını tersine mühendislikle çözerek kendi ekran sürücümü geliştirdim.
 An Arduino Uno based timing game built with a custom-driven 32×16 single-color P10 LED matrix.
 
 The goal is simple: press the button to start the timer and press it again as close as possible to **10.00 seconds**.
