@@ -101,4 +101,4 @@ Future improvements may include:
 
 ## 👨‍💻 Author
 
-Built by Abdullah Kutlu.
+Built by Abdullah Kutlu. 
