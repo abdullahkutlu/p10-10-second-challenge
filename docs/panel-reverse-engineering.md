@@ -558,5 +558,3 @@ The development process included:
 
 The final solution directly controls the 32×16 P10 LED matrix from an Arduino Uno without relying on the standard P10 display library.
 For the complete reverse-engineering process, oscilloscope testing, IC analysis and physical LED mapping, see:
-
-➡️ [Full P10 Panel Reverse Engineering Documentation](docs/panel-reverse-engineering.md)
